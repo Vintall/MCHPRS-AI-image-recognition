@@ -75,3 +75,14 @@
 [2m2023-09-02T10:05:32.350220Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Commencing graceful shutdown...
 [2m2023-09-02T11:11:07.429410Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
 [2m2023-09-02T11:11:07.435487Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Done! Start took 5.8729ms
+[2m2023-09-02T11:17:26.715544Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-09-02T11:17:26.717266Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Done! Start took 1.5469ms
+[2m2023-09-02T11:17:33.958396Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Vintall joined the game
+[2m2023-09-02T11:59:21.207509Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /give 
+[2m2023-09-02T11:59:35.534905Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /redpiler compile
+[2m2023-09-02T11:59:48.953647Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /rtps 100000
+[2m2023-09-02T12:02:33.025258Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //wand 
+[2m2023-09-02T12:02:40.860746Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-02T12:02:44.642133Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-02T12:12:15.611341Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /stop 
+[2m2023-09-02T12:12:15.621148Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Commencing graceful shutdown...
