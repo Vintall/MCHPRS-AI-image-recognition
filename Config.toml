@@ -8,3 +8,4 @@ whitelist = false
 schemati = false
 block_in_hitbox = true
 auto_redpiler = false
+ = false

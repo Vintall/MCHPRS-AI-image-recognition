@@ -1,0 +1,418 @@
+[2m2023-09-04T18:32:30.332916Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-09-04T18:32:30.335735Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Done! Start took 2.6324ms
+[2m2023-09-04T18:32:40.352924Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Vintall joined the game
+[2m2023-09-04T18:32:57.589802Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Oknelakskom joined the game
+[2m2023-09-04T18:52:09.687329Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /rtps 20
+[2m2023-09-04T19:14:14.750403Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //wand 
+[2m2023-09-04T19:14:21.736379Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T19:14:26.060589Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T19:14:27.605817Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T19:14:28.967631Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T19:14:45.983477Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T19:14:50.077328Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T19:14:54.275875Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T19:15:27.936577Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T19:15:34.867589Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T19:15:46.434719Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //rotate 
+[2m2023-09-04T19:15:50.021044Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //rotate 180
+[2m2023-09-04T19:15:55.845651Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T19:15:59.242488Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-04T19:16:01.397952Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T19:16:06.036846Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T19:20:46.110852Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //cut 
+[2m2023-09-04T19:21:35.111710Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T19:21:38.211215Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T19:21:39.443649Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T19:21:44.758602Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-04T19:21:45.254498Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-04T19:21:45.750807Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-04T19:21:50.705502Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T19:21:54.224448Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-04T19:21:55.901736Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T19:21:59.615675Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T19:22:00.791722Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T19:22:41.782557Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //cut 
+[2m2023-09-04T19:23:01.365677Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //tps 
+[2m2023-09-04T19:23:03.788676Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /rtps 
+[2m2023-09-04T19:23:12.426396Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /rtps 100000
+[2m2023-09-04T19:23:15.628767Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /rtps 
+[2m2023-09-04T19:24:02.400159Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T19:24:06.799590Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T19:31:00.735477Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /rtps 
+[2m2023-09-04T19:31:03.668252Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /rtps 1
+[2m2023-09-04T19:35:39.348445Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /rtps 20
+[2m2023-09-04T19:36:59.148178Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /rtps 1
+[2m2023-09-04T19:39:30.992404Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //wand 
+[2m2023-09-04T19:39:38.476980Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //cut 
+[2m2023-09-04T19:44:15.049485Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /rtps 
+[2m2023-09-04T19:44:17.718196Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /rtps 100
+[2m2023-09-04T20:10:08.924814Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //wand 
+[2m2023-09-04T20:10:18.569392Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T20:10:24.480927Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:10:28.504185Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-04T20:10:30.620807Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:10:38.556667Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T20:10:42.275313Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:10:48.274505Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:10:49.197268Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:11:23.118412Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T20:11:27.203435Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:11:31.448739Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-04T20:11:34.994136Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:11:41.880506Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:43:10.414441Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //cut 
+[2m2023-09-04T20:43:23.481497Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //cut 
+[2m2023-09-04T20:49:21.208276Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m <Vintall> ..wand
+[2m2023-09-04T20:49:52.576544Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Oknelakskom issued command: ///wand 
+[2m2023-09-04T20:50:03.970476Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //wand 
+[2m2023-09-04T20:50:23.405287Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Oknelakskom issued command: //wand 
+[2m2023-09-04T20:51:11.251182Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T20:51:13.042108Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m <Vintall> ..copy
+[2m2023-09-04T20:51:51.554649Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T20:51:59.197153Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:52:01.874267Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m <Vintall> ..paste
+[2m2023-09-04T20:52:04.573088Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:52:05.839283Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:52:07.187226Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:52:08.284349Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:52:09.566678Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:52:10.511169Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:52:35.395499Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //rotate 90
+[2m2023-09-04T20:52:43.805394Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:53:17.531554Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-04T20:53:22.010921Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-04T20:53:22.565576Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-04T20:53:23.030515Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-04T20:53:23.477352Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-04T20:53:23.954314Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-04T20:53:24.370630Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-04T20:53:24.795350Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-04T20:53:44.394328Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m <Vintall> ..h1
+[2m2023-09-04T20:53:45.208312Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m <Vintall> ..h2
+[2m2023-09-04T20:53:50.922314Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //h1 
+[2m2023-09-04T20:53:56.404428Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //h2 
+[2m2023-09-04T20:53:58.360211Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T20:54:03.187272Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:54:10.828503Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m <Vintall> ..copy
+[2m2023-09-04T20:54:13.944187Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m <Vintall> ..paste
+[2m2023-09-04T20:54:15.254434Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m <Vintall> .cut
+[2m2023-09-04T20:54:17.825446Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m <Vintall> ..cut
+[2m2023-09-04T20:54:19.778145Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m <Vintall> ..undo
+[2m2023-09-04T20:55:20.363490Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Oknelakskom issued command: //copy 
+[2m2023-09-04T20:55:36.114202Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Oknelakskom issued command: //paste 
+[2m2023-09-04T20:55:56.731244Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Oknelakskom issued command: //paste 
+[2m2023-09-04T20:56:49.134851Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T20:56:52.585379Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:57:04.268010Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:57:07.710544Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:57:16.259422Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:57:20.402529Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:57:21.545244Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:57:27.729273Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T20:57:34.053913Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:57:38.721373Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:57:43.060714Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:57:46.200196Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-04T20:57:48.157611Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:57:52.915329Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:58:13.720724Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T20:58:17.834304Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:58:22.131450Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-04T20:58:26.584417Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:58:43.711304Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T20:58:48.112369Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:58:51.912635Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-04T20:58:53.453216Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:58:58.459507Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-04T20:58:59.543299Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T20:59:15.782136Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Oknelakskom issued command: //undo 
+[2m2023-09-04T20:59:32.260087Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T20:59:37.331352Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:00:01.467953Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-04T21:00:17.998358Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T21:00:20.596442Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //pas 
+[2m2023-09-04T21:00:22.706039Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:00:33.289480Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T21:00:40.097911Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:00:42.383205Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:00:44.437147Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:00:49.379215Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T21:00:52.736772Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:01:45.812832Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T21:01:48.498696Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:01:50.325373Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:01:52.194572Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:01:54.380688Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:01:56.061378Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:02:04.846306Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T21:02:07.841263Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:02:17.275380Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T21:02:18.516271Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:02:39.164110Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T21:02:40.500200Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:03:34.448705Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T21:03:36.837535Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:03:44.307505Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-04T21:03:48.151487Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:03:50.771067Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-04T21:03:51.769637Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:04:04.480760Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T21:04:05.732236Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:04:19.942687Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T21:04:22.306220Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:04:31.136477Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T21:04:34.951513Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:04:50.195975Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T21:04:52.425185Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:05:06.782736Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T21:05:11.259639Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:05:22.915455Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T21:05:27.008508Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:06:08.976371Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T21:06:10.410284Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:06:16.955222Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T21:06:18.199974Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:06:32.891233Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T21:06:37.005338Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:06:42.434188Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T21:06:43.548299Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:06:56.068090Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //cop 
+[2m2023-09-04T21:06:59.370851Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T21:07:17.631752Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T21:07:22.455996Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:07:25.393257Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-04T21:07:28.094071Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:07:49.858108Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T21:07:54.008314Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:08:08.767424Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T21:08:13.084616Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:08:15.350151Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-04T21:08:19.438436Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:09:05.100656Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-04T21:09:09.936420Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:09:12.571429Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-04T21:09:19.035186Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-04T21:10:21.691287Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //cut 
+[2m2023-09-04T21:11:03.276571Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //stop 
+[2m2023-09-04T21:11:06.089231Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /stop 
+[2m2023-09-04T21:11:06.105126Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Commencing graceful shutdown...
+[2m2023-09-04T21:11:14.044728Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-09-04T21:11:14.054389Z[0m [31mERROR[0m [2mmchprs_core::server[0m[2m:[0m plot panicked at 'called `Result::unwrap()` on an `Err` value: TomlError { message: "invalid key", original: Some("bind_address = \"0.0.0.0:25565\"\nmotd = \"Minecraft High Performance Redstone Server\"\nchat_format = \"<{username}> {message}\"\nmax_players = 99999\nview_distance = 8\nbungeecord = false\nwhitelist = false\nschemati = false\nblock_in_hitbox = true\nauto_redpiler = false\n = false\r\n"), keys: [], span: Some(260..261) }', crates\core\src\config.rs:66:1
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: BaseThreadInitThunk
+  18: RtlUserThreadStart
+
+[2m2023-09-04T21:11:20.984596Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-09-04T21:11:20.991167Z[0m [31mERROR[0m [2mmchprs_core::server[0m[2m:[0m plot panicked at 'called `Result::unwrap()` on an `Err` value: TomlError { message: "invalid key", original: Some("bind_address = \"0.0.0.0:25565\"\nmotd = \"Minecraft High Performance Redstone Server\"\nchat_format = \"<{username}> {message}\"\nmax_players = 99999\nview_distance = 8\nbungeecord = false\nwhitelist = false\nschemati = false\nblock_in_hitbox = true\nauto_redpiler = false\n = false\r\n"), keys: [], span: Some(260..261) }', crates\core\src\config.rs:66:1
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: BaseThreadInitThunk
+  18: RtlUserThreadStart
+
+[2m2023-09-04T21:11:32.015181Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-09-04T21:11:32.022081Z[0m [31mERROR[0m [2mmchprs_core::server[0m[2m:[0m plot panicked at 'called `Result::unwrap()` on an `Err` value: TomlError { message: "invalid key", original: Some("bind_address = \"0.0.0.0:25565\"\nmotd = \"Minecraft High Performance Redstone Server\"\nchat_format = \"<{username}> {message}\"\nmax_players = 99999\nview_distance = 8\nbungeecord = false\nwhitelist = false\nschemati = false\nblock_in_hitbox = true\nauto_redpiler = false\n = false\r\n"), keys: [], span: Some(260..261) }', crates\core\src\config.rs:66:1
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: BaseThreadInitThunk
+  18: RtlUserThreadStart
+
+[2m2023-09-04T21:11:33.339144Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-09-04T21:11:33.346061Z[0m [31mERROR[0m [2mmchprs_core::server[0m[2m:[0m plot panicked at 'called `Result::unwrap()` on an `Err` value: TomlError { message: "invalid key", original: Some("bind_address = \"0.0.0.0:25565\"\nmotd = \"Minecraft High Performance Redstone Server\"\nchat_format = \"<{username}> {message}\"\nmax_players = 99999\nview_distance = 8\nbungeecord = false\nwhitelist = false\nschemati = false\nblock_in_hitbox = true\nauto_redpiler = false\n = false\r\n"), keys: [], span: Some(260..261) }', crates\core\src\config.rs:66:1
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: BaseThreadInitThunk
+  18: RtlUserThreadStart
+
+[2m2023-09-04T21:11:34.346925Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-09-04T21:11:34.354106Z[0m [31mERROR[0m [2mmchprs_core::server[0m[2m:[0m plot panicked at 'called `Result::unwrap()` on an `Err` value: TomlError { message: "invalid key", original: Some("bind_address = \"0.0.0.0:25565\"\nmotd = \"Minecraft High Performance Redstone Server\"\nchat_format = \"<{username}> {message}\"\nmax_players = 99999\nview_distance = 8\nbungeecord = false\nwhitelist = false\nschemati = false\nblock_in_hitbox = true\nauto_redpiler = false\n = false\r\n"), keys: [], span: Some(260..261) }', crates\core\src\config.rs:66:1
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: BaseThreadInitThunk
+  18: RtlUserThreadStart
+
+[2m2023-09-04T21:11:35.096241Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-09-04T21:11:35.103127Z[0m [31mERROR[0m [2mmchprs_core::server[0m[2m:[0m plot panicked at 'called `Result::unwrap()` on an `Err` value: TomlError { message: "invalid key", original: Some("bind_address = \"0.0.0.0:25565\"\nmotd = \"Minecraft High Performance Redstone Server\"\nchat_format = \"<{username}> {message}\"\nmax_players = 99999\nview_distance = 8\nbungeecord = false\nwhitelist = false\nschemati = false\nblock_in_hitbox = true\nauto_redpiler = false\n = false\r\n"), keys: [], span: Some(260..261) }', crates\core\src\config.rs:66:1
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: BaseThreadInitThunk
+  18: RtlUserThreadStart
+
+[2m2023-09-04T21:11:35.801404Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-09-04T21:11:35.809029Z[0m [31mERROR[0m [2mmchprs_core::server[0m[2m:[0m plot panicked at 'called `Result::unwrap()` on an `Err` value: TomlError { message: "invalid key", original: Some("bind_address = \"0.0.0.0:25565\"\nmotd = \"Minecraft High Performance Redstone Server\"\nchat_format = \"<{username}> {message}\"\nmax_players = 99999\nview_distance = 8\nbungeecord = false\nwhitelist = false\nschemati = false\nblock_in_hitbox = true\nauto_redpiler = false\n = false\r\n"), keys: [], span: Some(260..261) }', crates\core\src\config.rs:66:1
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: BaseThreadInitThunk
+  18: RtlUserThreadStart
+
+[2m2023-09-04T21:12:17.239136Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-09-04T21:12:17.246139Z[0m [31mERROR[0m [2mmchprs_core::server[0m[2m:[0m plot panicked at 'called `Result::unwrap()` on an `Err` value: TomlError { message: "invalid key", original: Some("bind_address = \"0.0.0.0:25565\"\nmotd = \"Minecraft High Performance Redstone Server\"\nchat_format = \"<{username}> {message}\"\nmax_players = 99999\nview_distance = 8\nbungeecord = false\nwhitelist = false\nschemati = false\nblock_in_hitbox = true\nauto_redpiler = false\n = false\r\n"), keys: [], span: Some(260..261) }', crates\core\src\config.rs:66:1
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: BaseThreadInitThunk
+  18: RtlUserThreadStart
+
+[2m2023-09-04T21:12:18.064005Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-09-04T21:12:18.071564Z[0m [31mERROR[0m [2mmchprs_core::server[0m[2m:[0m plot panicked at 'called `Result::unwrap()` on an `Err` value: TomlError { message: "invalid key", original: Some("bind_address = \"0.0.0.0:25565\"\nmotd = \"Minecraft High Performance Redstone Server\"\nchat_format = \"<{username}> {message}\"\nmax_players = 99999\nview_distance = 8\nbungeecord = false\nwhitelist = false\nschemati = false\nblock_in_hitbox = true\nauto_redpiler = false\n = false\r\n"), keys: [], span: Some(260..261) }', crates\core\src\config.rs:66:1
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: BaseThreadInitThunk
+  18: RtlUserThreadStart
+
+[2m2023-09-04T21:12:20.832978Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-09-04T21:12:20.839068Z[0m [31mERROR[0m [2mmchprs_core::server[0m[2m:[0m plot panicked at 'called `Result::unwrap()` on an `Err` value: TomlError { message: "invalid key", original: Some("bind_address = \"0.0.0.0:25565\"\nmotd = \"Minecraft High Performance Redstone Server\"\nchat_format = \"<{username}> {message}\"\nmax_players = 99999\nview_distance = 8\nbungeecord = false\nwhitelist = false\nschemati = false\nblock_in_hitbox = true\nauto_redpiler = false\n = false\r\n"), keys: [], span: Some(260..261) }', crates\core\src\config.rs:66:1
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: BaseThreadInitThunk
+  18: RtlUserThreadStart
+
