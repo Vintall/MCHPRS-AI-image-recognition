@@ -1,0 +1,42 @@
+[2m2023-09-13T18:39:43.691273Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-09-13T18:39:43.708201Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Done! Start took 16.2468ms
+[2m2023-09-13T18:40:41.816052Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Vintall joined the game
+[2m2023-09-13T18:46:57.285125Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Oknelakskom joined the game
+[2m2023-09-13T18:53:58.665356Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Oknelakskom issued command: //copy 
+[2m2023-09-13T18:54:19.732652Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Oknelakskom issued command: //paste 
+[2m2023-09-13T18:54:35.398832Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Oknelakskom issued command: //undo 
+[2m2023-09-13T18:54:39.431451Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Oknelakskom issued command: //paste 
+[2m2023-09-13T19:19:12.527886Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-13T19:19:22.149705Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //move 3 up
+[2m2023-09-13T19:19:27.402248Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-13T19:19:30.684192Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //move 6 up
+[2m2023-09-13T19:19:31.804387Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-13T19:19:44.371455Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-13T19:19:45.397230Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-13T19:19:46.172213Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-13T19:19:46.979088Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-13T19:19:50.788418Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //move 2 up
+[2m2023-09-13T19:19:53.292515Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-13T19:19:59.204696Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-13T19:20:00.684294Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-13T19:20:07.648796Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-13T19:20:09.972493Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //move 2 up
+[2m2023-09-13T19:20:11.860538Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-13T19:20:15.586781Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //move 4 up
+[2m2023-09-13T19:20:16.889216Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-13T19:20:18.929490Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //move 6 up
+[2m2023-09-13T19:20:20.129356Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-13T19:20:24.017427Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //move 8 up
+[2m2023-09-13T19:20:25.252318Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-13T19:20:27.823402Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //move 10 up
+[2m2023-09-13T19:20:28.788630Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-13T19:20:30.677248Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //move 12 up
+[2m2023-09-13T19:20:31.760393Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-13T19:20:33.744692Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //move 14 up
+[2m2023-09-13T19:20:34.646303Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-13T19:20:37.190293Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //move 16 up
+[2m2023-09-13T19:20:38.243366Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-13T19:23:54.727436Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //copy 
+[2m2023-09-13T19:23:56.371465Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //paste 
+[2m2023-09-13T19:28:33.832549Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /stop 
+[2m2023-09-13T19:28:33.848465Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Commencing graceful shutdown...
