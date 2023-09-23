@@ -1,6 +1,6 @@
 bind_address = "0.0.0.0:25565"
 motd = "Minecraft High Performance Redstone Server"
-chat_format = "<{username}> {message}"
+chat_format = "/up /u Go upwards some distance\n/ascend /asc Go up a floor\n/descend /desc Go down a floor\n//pos2 //2 Set position 2\n//hpos1 //h1 Set position 1 to targeted block\n//hpos2 //h2 Set position 2 to targeted block\n//sel None Clears your worldedit first and second positions.\n//set None Sets all the blocks in the region\n//replace None Replace all blocks in a selection with another\n//copy //c Copy the selection to the clipboard\n//cut //x Cut the selection to the clipboard\n//paste //v Paste the clipboard's contents\n//undo None Undoes the last action (from history)\n//redo None Redoes the last action (from history)\n//rstack //rs Stack with more options, Refer to RedstoneTools\n//stack //s Repeat the contents of the selection\n//move None Move the contents of the selection\n//count None Counts the number of blocks matching a mask\n//load None Loads a schematic from the ./schems/ folder. Make sure the schematic in the Sponge format if there are any issues.\n//save None Save a schematic to the ./schems/ folder.\n//expand //e Expand the selection area\n//contract None Contract the selection area\n//shift None Shift the selection area\n//flip //f Flip the contents of the clipboard across the origin\n//rotate //r Rotate the contents of the clipboard\n//update None Updates all blocks in the selection\n//help None Displays help for WorldEdit commands"
 max_players = 99999
 view_distance = 16
 bungeecord = true

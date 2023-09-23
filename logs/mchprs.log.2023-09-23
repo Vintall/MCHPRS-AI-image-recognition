@@ -1,0 +1,276 @@
+[2m2023-09-23T19:07:17.776605Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-09-23T19:07:17.785036Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Done! Start took 7.6675ms
+[2m2023-09-23T19:07:22.259253Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Oknelakskom joined the game
+[2m2023-09-23T19:08:48.679276Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Vintall joined the game
+[2m2023-09-23T19:20:08.405190Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /speed 6
+[2m2023-09-23T19:21:16.881244Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /speed 1.5
+[2m2023-09-23T19:25:28.068195Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Oknelakskom left the game
+[2m2023-09-23T19:25:38.972263Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Oknelakskom joined the game
+[2m2023-09-23T19:29:03.733869Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Oknelakskom issued command: //copy 
+[2m2023-09-23T19:30:58.347853Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Oknelakskom issued command: //paste 
+[2m2023-09-23T19:32:39.563027Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Oknelakskom issued command: //undo 
+[2m2023-09-23T19:32:59.404014Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Oknelakskom issued command: //paste 
+[2m2023-09-23T19:33:50.174127Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //move up 10
+[2m2023-09-23T19:33:54.183206Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /move up 10
+[2m2023-09-23T19:33:59.635184Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //move 10 up
+[2m2023-09-23T19:34:03.686139Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-23T19:34:09.354768Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //h2 
+[2m2023-09-23T19:34:12.048400Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-09-23T19:34:28.280079Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //h2 ~ +10 ~
+[2m2023-09-23T19:34:36.497871Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //h 
+[2m2023-09-23T19:34:57.892399Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //shift 10 up
+[2m2023-09-23T19:35:08.018865Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //move 10 up
+[2m2023-09-23T19:35:16.709887Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //set minecraft:sandstone
+[2m2023-09-23T19:35:33.010224Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //set minecraft:dark_oak_log
+[2m2023-09-23T19:35:53.701825Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //set minecraft:cyan_wool
+[2m2023-09-23T19:35:58.988952Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //clr 
+[2m2023-09-23T19:36:00.778716Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //clear 
+[2m2023-09-23T19:36:04.148931Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //sel 
+[2m2023-09-23T19:36:11.460256Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //sel 
+[2m2023-09-23T19:40:29.769524Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /stop 
+[2m2023-09-23T19:40:29.784302Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Commencing graceful shutdown...
+[2m2023-09-23T19:40:47.765154Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-09-23T19:40:47.767397Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Done! Start took 1.854ms
+[2m2023-09-23T19:40:49.493087Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Vintall joined the game
+[2m2023-09-23T19:40:52.853112Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m <Vintall> s
+[2m2023-09-23T19:40:54.275057Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Oknelakskom joined the game
+[2m2023-09-23T19:40:54.718323Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Vintall left the game
+[2m2023-09-23T19:40:58.879727Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Vintall joined the game
+[2m2023-09-23T19:41:02.557090Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /stop 
+[2m2023-09-23T19:41:02.573001Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Commencing graceful shutdown...
+[2m2023-09-23T19:41:14.538497Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-09-23T19:41:14.548550Z[0m [31mERROR[0m [2mmchprs_core::server[0m[2m:[0m plot panicked at 'called `Result::unwrap()` on an `Err` value: TomlError { message: "invalid basic string", original: Some("bind_address = \"0.0.0.0:25565\"\nmotd = \"Minecraft High Performance Redstone Server\"\nchat_format = \"</up\t/u\tGo upwards some distance\n/ascend\t/asc\tGo up a floor\n/descend\t/desc\tGo down a floor\n//pos1\t//1\tSet position 1\n//pos2\t//2\tSet position 2\n//hpos1\t//h1\tSet position 1 to targeted block\n//hpos2\t//h2\tSet position 2 to targeted block\n//sel\tNone\tClears your worldedit first and second positions.\n//set\tNone\tSets all the blocks in the region\n//replace\tNone\tReplace all blocks in a selection with another\n//copy\t//c\tCopy the selection to the clipboard\n//cut\t//x\tCut the selection to the clipboard\n//paste\t//v\tPaste the clipboard's contents\n//undo\tNone\tUndoes the last action (from history)\n//redo\tNone\tRedoes the last action (from history)\n//rstack\t//rs\tStack with more options, Refer to RedstoneTools\n//stack\t//s\tRepeat the contents of the selection\n//move\tNone\tMove the contents of the selection\n//count\tNone\tCounts the number of blocks matching a mask\n//load\tNone\tLoads a schematic from the ./schems/ folder. Make sure the schematic in the Sponge format if there are any issues.\n//save\tNone\tSave a schematic to the ./schems/ folder.\n//expand\t//e\tExpand the selection area\n//contract\tNone\tContract the selection area\n//shift\tNone\tShift the selection area\n//flip\t//f\tFlip the contents of the clipboard across the origin\n//rotate\t//r\tRotate the contents of the clipboard\n//update\tNone\tUpdates all blocks in the selection\n//help\tNone\tDisplays help for WorldEdit commands> {message}\"\nmax_players = 99999\nview_distance = 16\nbungeecord = true\nwhitelist = false\nschemati = true\nblock_in_hitbox = true\nauto_redpiler = false\n"), keys: [], span: Some(130..131) }', crates\core\src\config.rs:66:1
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: BaseThreadInitThunk
+  18: RtlUserThreadStart
+
+[2m2023-09-23T19:41:15.548747Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-09-23T19:41:15.556410Z[0m [31mERROR[0m [2mmchprs_core::server[0m[2m:[0m plot panicked at 'called `Result::unwrap()` on an `Err` value: TomlError { message: "invalid basic string", original: Some("bind_address = \"0.0.0.0:25565\"\nmotd = \"Minecraft High Performance Redstone Server\"\nchat_format = \"</up\t/u\tGo upwards some distance\n/ascend\t/asc\tGo up a floor\n/descend\t/desc\tGo down a floor\n//pos1\t//1\tSet position 1\n//pos2\t//2\tSet position 2\n//hpos1\t//h1\tSet position 1 to targeted block\n//hpos2\t//h2\tSet position 2 to targeted block\n//sel\tNone\tClears your worldedit first and second positions.\n//set\tNone\tSets all the blocks in the region\n//replace\tNone\tReplace all blocks in a selection with another\n//copy\t//c\tCopy the selection to the clipboard\n//cut\t//x\tCut the selection to the clipboard\n//paste\t//v\tPaste the clipboard's contents\n//undo\tNone\tUndoes the last action (from history)\n//redo\tNone\tRedoes the last action (from history)\n//rstack\t//rs\tStack with more options, Refer to RedstoneTools\n//stack\t//s\tRepeat the contents of the selection\n//move\tNone\tMove the contents of the selection\n//count\tNone\tCounts the number of blocks matching a mask\n//load\tNone\tLoads a schematic from the ./schems/ folder. Make sure the schematic in the Sponge format if there are any issues.\n//save\tNone\tSave a schematic to the ./schems/ folder.\n//expand\t//e\tExpand the selection area\n//contract\tNone\tContract the selection area\n//shift\tNone\tShift the selection area\n//flip\t//f\tFlip the contents of the clipboard across the origin\n//rotate\t//r\tRotate the contents of the clipboard\n//update\tNone\tUpdates all blocks in the selection\n//help\tNone\tDisplays help for WorldEdit commands> {message}\"\nmax_players = 99999\nview_distance = 16\nbungeecord = true\nwhitelist = false\nschemati = true\nblock_in_hitbox = true\nauto_redpiler = false\n"), keys: [], span: Some(130..131) }', crates\core\src\config.rs:66:1
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: BaseThreadInitThunk
+  18: RtlUserThreadStart
+
+[2m2023-09-23T19:41:27.773574Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-09-23T19:41:27.780768Z[0m [31mERROR[0m [2mmchprs_core::server[0m[2m:[0m plot panicked at 'called `Result::unwrap()` on an `Err` value: TomlError { message: "invalid string\nexpected `\"`, `'`", original: Some("bind_address = \"0.0.0.0:25565\"\nmotd = \"Minecraft High Performance Redstone Server\"\nchat_format = \n\"\n/up\t/u\tGo upwards some distance\n/ascend\t/asc\tGo up a floor\n/descend\t/desc\tGo down a floor\n//pos1\t//1\tSet position 1\n//pos2\t//2\tSet position 2\n//hpos1\t//h1\tSet position 1 to targeted block\n//hpos2\t//h2\tSet position 2 to targeted block\n//sel\tNone\tClears your worldedit first and second positions.\n//set\tNone\tSets all the blocks in the region\n//replace\tNone\tReplace all blocks in a selection with another\n//copy\t//c\tCopy the selection to the clipboard\n//cut\t//x\tCut the selection to the clipboard\n//paste\t//v\tPaste the clipboard's contents\n//undo\tNone\tUndoes the last action (from history)\n//redo\tNone\tRedoes the last action (from history)\n//rstack\t//rs\tStack with more options, Refer to RedstoneTools\n//stack\t//s\tRepeat the contents of the selection\n//move\tNone\tMove the contents of the selection\n//count\tNone\tCounts the number of blocks matching a mask\n//load\tNone\tLoads a schematic from the ./schems/ folder. Make sure the schematic in the Sponge format if there are any issues.\n//save\tNone\tSave a schematic to the ./schems/ folder.\n//expand\t//e\tExpand the selection area\n//contract\tNone\tContract the selection area\n//shift\tNone\tShift the selection area\n//flip\t//f\tFlip the contents of the clipboard across the origin\n//rotate\t//r\tRotate the contents of the clipboard\n//update\tNone\tUpdates all blocks in the selection\n//help\tNone\tDisplays help for WorldEdit commands\n\"\nmax_players = 99999\nview_distance = 16\nbungeecord = true\nwhitelist = false\nschemati = true\nblock_in_hitbox = true\nauto_redpiler = false\n"), keys: [], span: Some(97..98) }', crates\core\src\config.rs:66:1
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: BaseThreadInitThunk
+  18: RtlUserThreadStart
+
+[2m2023-09-23T19:41:28.481287Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-09-23T19:41:28.488184Z[0m [31mERROR[0m [2mmchprs_core::server[0m[2m:[0m plot panicked at 'called `Result::unwrap()` on an `Err` value: TomlError { message: "invalid string\nexpected `\"`, `'`", original: Some("bind_address = \"0.0.0.0:25565\"\nmotd = \"Minecraft High Performance Redstone Server\"\nchat_format = \n\"\n/up\t/u\tGo upwards some distance\n/ascend\t/asc\tGo up a floor\n/descend\t/desc\tGo down a floor\n//pos1\t//1\tSet position 1\n//pos2\t//2\tSet position 2\n//hpos1\t//h1\tSet position 1 to targeted block\n//hpos2\t//h2\tSet position 2 to targeted block\n//sel\tNone\tClears your worldedit first and second positions.\n//set\tNone\tSets all the blocks in the region\n//replace\tNone\tReplace all blocks in a selection with another\n//copy\t//c\tCopy the selection to the clipboard\n//cut\t//x\tCut the selection to the clipboard\n//paste\t//v\tPaste the clipboard's contents\n//undo\tNone\tUndoes the last action (from history)\n//redo\tNone\tRedoes the last action (from history)\n//rstack\t//rs\tStack with more options, Refer to RedstoneTools\n//stack\t//s\tRepeat the contents of the selection\n//move\tNone\tMove the contents of the selection\n//count\tNone\tCounts the number of blocks matching a mask\n//load\tNone\tLoads a schematic from the ./schems/ folder. Make sure the schematic in the Sponge format if there are any issues.\n//save\tNone\tSave a schematic to the ./schems/ folder.\n//expand\t//e\tExpand the selection area\n//contract\tNone\tContract the selection area\n//shift\tNone\tShift the selection area\n//flip\t//f\tFlip the contents of the clipboard across the origin\n//rotate\t//r\tRotate the contents of the clipboard\n//update\tNone\tUpdates all blocks in the selection\n//help\tNone\tDisplays help for WorldEdit commands\n\"\nmax_players = 99999\nview_distance = 16\nbungeecord = true\nwhitelist = false\nschemati = true\nblock_in_hitbox = true\nauto_redpiler = false\n"), keys: [], span: Some(97..98) }', crates\core\src\config.rs:66:1
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: BaseThreadInitThunk
+  18: RtlUserThreadStart
+
+[2m2023-09-23T19:41:33.060907Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-09-23T19:41:33.068284Z[0m [31mERROR[0m [2mmchprs_core::server[0m[2m:[0m plot panicked at 'called `Result::unwrap()` on an `Err` value: TomlError { message: "invalid string\nexpected `\"`, `'`", original: Some("bind_address = \"0.0.0.0:25565\"\nmotd = \"Minecraft High Performance Redstone Server\"\nchat_format = \n\"\n\n\"\nmax_players = 99999\nview_distance = 16\nbungeecord = true\nwhitelist = false\nschemati = true\nblock_in_hitbox = true\nauto_redpiler = false\n"), keys: [], span: Some(97..98) }', crates\core\src\config.rs:66:1
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: BaseThreadInitThunk
+  18: RtlUserThreadStart
+
+[2m2023-09-23T19:41:33.694784Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-09-23T19:41:33.702510Z[0m [31mERROR[0m [2mmchprs_core::server[0m[2m:[0m plot panicked at 'called `Result::unwrap()` on an `Err` value: TomlError { message: "invalid string\nexpected `\"`, `'`", original: Some("bind_address = \"0.0.0.0:25565\"\nmotd = \"Minecraft High Performance Redstone Server\"\nchat_format = \n\"\n\n\"\nmax_players = 99999\nview_distance = 16\nbungeecord = true\nwhitelist = false\nschemati = true\nblock_in_hitbox = true\nauto_redpiler = false\n"), keys: [], span: Some(97..98) }', crates\core\src\config.rs:66:1
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: BaseThreadInitThunk
+  18: RtlUserThreadStart
+
+[2m2023-09-23T19:41:38.223862Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-09-23T19:41:38.230392Z[0m [31mERROR[0m [2mmchprs_core::server[0m[2m:[0m plot panicked at 'called `Result::unwrap()` on an `Err` value: TomlError { message: "invalid string\nexpected `\"`, `'`", original: Some("bind_address = \"0.0.0.0:25565\"\nmotd = \"Minecraft High Performance Redstone Server\"\nchat_format = \n\"\n\"\nmax_players = 99999\nview_distance = 16\nbungeecord = true\nwhitelist = false\nschemati = true\nblock_in_hitbox = true\nauto_redpiler = false\n"), keys: [], span: Some(97..98) }', crates\core\src\config.rs:66:1
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: BaseThreadInitThunk
+  18: RtlUserThreadStart
+
+[2m2023-09-23T19:41:42.397014Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-09-23T19:41:42.398688Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Done! Start took 1.4258ms
+[2m2023-09-23T19:42:01.422633Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-09-23T19:42:01.424765Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Done! Start took 1.4718ms
+[2m2023-09-23T19:42:03.001869Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Vintall joined the game
+[2m2023-09-23T19:42:06.922061Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m <Vintall> as
+[2m2023-09-23T19:42:25.328596Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-09-23T19:42:25.331581Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Done! Start took 2.7598ms
+[2m2023-09-23T19:42:27.383144Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Vintall joined the game
+[2m2023-09-23T19:42:30.949806Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m <Vintall> s
+[2m2023-09-23T19:42:49.594738Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Oknelakskom joined the game
+[2m2023-09-23T19:44:00.949149Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m <Vintall> s
+[2m2023-09-23T19:44:04.436037Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /stop 
+[2m2023-09-23T19:44:04.451449Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Commencing graceful shutdown...
+[2m2023-09-23T19:44:07.626596Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-09-23T19:44:07.628345Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Done! Start took 1.5592ms
+[2m2023-09-23T19:44:09.332385Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Vintall joined the game
+[2m2023-09-23T19:44:12.545316Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m <Vintall> s
+[2m2023-09-23T19:44:35.705120Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Oknelakskom joined the game
+[2m2023-09-23T19:45:09.974908Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m <Oknelakskom> qwerty
+[2m2023-09-23T19:46:24.461919Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /stop 
+[2m2023-09-23T19:46:24.477158Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Commencing graceful shutdown...
+[2m2023-09-23T19:46:27.306950Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-09-23T19:46:27.308875Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Done! Start took 1.6614ms
+[2m2023-09-23T19:46:28.476233Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Vintall joined the game
+[2m2023-09-23T19:46:32.253158Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m <Vintall> ys
+[2m2023-09-23T19:46:43.209936Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Oknelakskom joined the game
+[2m2023-09-23T19:46:59.695570Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /stop 
+[2m2023-09-23T19:46:59.709256Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Commencing graceful shutdown...
+[2m2023-09-23T19:48:22.432823Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-09-23T19:48:22.434842Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Done! Start took 1.7437ms
+[2m2023-09-23T19:48:23.555836Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Vintall joined the game
+[2m2023-09-23T19:48:25.085211Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Oknelakskom joined the game
+[2m2023-09-23T19:48:26.814758Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m <Vintall> a
+[2m2023-09-23T19:48:48.613600Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /u 
+[2m2023-09-23T19:48:49.497841Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /u 
+[2m2023-09-23T19:48:51.104297Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /u 100
+[2m2023-09-23T19:49:24.061969Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Oknelakskom issued command: /up 100
+[2m2023-09-23T19:49:44.879062Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //concrat 
+[2m2023-09-23T19:49:49.879593Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //contract 
+[2m2023-09-23T19:49:52.782069Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //contract 
+[2m2023-09-23T19:49:53.647734Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //contract 
+[2m2023-09-23T19:49:57.386951Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //contract 
+[2m2023-09-23T19:49:57.847209Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //contract 
+[2m2023-09-23T19:49:58.729704Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //contract 
+[2m2023-09-23T19:49:59.194190Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //contract 
+[2m2023-09-23T19:50:00.384924Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //contract 
+[2m2023-09-23T19:50:02.980803Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //contract 
+[2m2023-09-23T19:50:05.535934Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //contract 
+[2m2023-09-23T19:50:06.649078Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //contract 
+[2m2023-09-23T19:50:07.577927Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //contract 
+[2m2023-09-23T19:50:08.384494Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //contract 
+[2m2023-09-23T19:50:13.944385Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //contract 
+[2m2023-09-23T19:50:16.233476Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //contract 
+[2m2023-09-23T19:50:16.805187Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //contract 
+[2m2023-09-23T19:50:17.812774Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //contract 
+[2m2023-09-23T19:50:18.365433Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //contract 
+[2m2023-09-23T19:50:19.055178Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //contract 
+[2m2023-09-23T19:50:19.966042Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //contract 
+[2m2023-09-23T19:50:23.796849Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /cel 
+[2m2023-09-23T19:50:26.719091Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /sel 
+[2m2023-09-23T19:50:28.300436Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //sel 
+[2m2023-09-23T19:50:56.771079Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Oknelakskom issued command: /up 200
+[2m2023-09-23T19:51:15.696159Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Oknelakskom issued command: /up 200
+[2m2023-09-23T19:54:43.769910Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m <Vintall> s
+[2m2023-09-23T19:54:57.791189Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //2 
+[2m2023-09-23T19:55:04.413619Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //stack 
+[2m2023-09-23T20:03:50.606940Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Vintall left the game
+[2m2023-09-23T20:04:23.499076Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Vintall joined the game
+[2m2023-09-23T20:05:27.757226Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Vintall left the game
+[2m2023-09-23T20:06:49.127371Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Vintall joined the game
+[2m2023-09-23T20:11:04.103237Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Oknelakskom issued command: //copy 
+[2m2023-09-23T20:15:55.058347Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Oknelakskom issued command: //paste 
+[2m2023-09-23T20:16:29.810209Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Oknelakskom issued command: //paste 
+[2m2023-09-23T20:24:12.596183Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //set minecraft:pink_wool
+[2m2023-09-23T20:24:45.841024Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //set minecraft:magenta_wool
+[2m2023-09-23T20:25:08.487125Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //set minecraft:lime_wool
+[2m2023-09-23T20:25:24.656717Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //set minecraft:light_blue_wool
+[2m2023-09-23T20:25:38.820187Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //set minecraft:gray_wool
+[2m2023-09-23T20:25:58.478985Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //stack 10
+[2m2023-09-23T20:35:44.212916Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /stop 
+[2m2023-09-23T20:35:44.228356Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Commencing graceful shutdown...
