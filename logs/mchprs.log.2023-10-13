@@ -1,0 +1,37 @@
+[2m2023-10-13T16:07:06.860859Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-10-13T16:07:06.869825Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Done! Start took 8.4461ms
+[2m2023-10-13T16:07:33.123823Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Oknelakskom joined the game
+[2m2023-10-13T16:08:05.461334Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Vintall joined the game
+[2m2023-10-13T16:10:47.687656Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Oknelakskom left the game
+[2m2023-10-13T16:12:39.834763Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Oknelakskom joined the game
+[2m2023-10-13T16:34:00.293991Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //wand 
+[2m2023-10-13T16:34:06.777808Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //set air
+[2m2023-10-13T16:34:09.210175Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //sel 
+[2m2023-10-13T17:07:30.007371Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Vintall left the game
+[2m2023-10-13T17:07:39.282258Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Vintall joined the game
+[2m2023-10-13T17:26:02.009208Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Oknelakskom left the game
+[2m2023-10-13T17:26:02.815863Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Vintall left the game
+[2m2023-10-13T17:26:03.950702Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Vintall joined the game
+[2m2023-10-13T17:26:12.190627Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Oknelakskom joined the game
+[2m2023-10-13T17:45:44.662724Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //wand 
+[2m2023-10-13T17:47:13.573830Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //replace minecraft:green_wool minecraft:blue_wool
+[2m2023-10-13T17:47:25.158630Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //replace minecraft:lime_wool minecraft:blue_wool
+[2m2023-10-13T17:47:33.158152Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //replace minecraft:lime_wool minecraft:blue_wool
+[2m2023-10-13T17:56:36.376973Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //sel 
+[2m2023-10-13T18:02:13.533692Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //shift 
+[2m2023-10-13T18:02:17.649154Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //shift 15
+[2m2023-10-13T18:02:31.088849Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //set minecraft:light_blue_concrete
+[2m2023-10-13T18:02:35.506226Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //sel 
+[2m2023-10-13T18:08:27.029465Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //stack 3
+[2m2023-10-13T18:08:31.924647Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //stack 3
+[2m2023-10-13T18:08:35.165765Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Vintall left the game
+[2m2023-10-13T18:08:36.017971Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Vintall joined the game
+[2m2023-10-13T18:08:50.990931Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Oknelakskom left the game
+[2m2023-10-13T18:08:58.746005Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Oknelakskom joined the game
+[2m2023-10-13T18:20:50.910185Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Vintall left the game
+[2m2023-10-13T18:20:52.930843Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Vintall joined the game
+[2m2023-10-13T18:21:00.837876Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /redpiler 
+[2m2023-10-13T18:21:02.762119Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /redpiler compile
+[2m2023-10-13T18:28:15.759877Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Oknelakskom left the game
+[2m2023-10-13T18:28:16.555603Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /stop 
+[2m2023-10-13T18:28:16.571630Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Commencing graceful shutdown...

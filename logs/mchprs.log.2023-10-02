@@ -1,0 +1,37 @@
+[2m2023-10-02T18:03:45.039291Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-10-02T18:03:45.049966Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Done! Start took 9.0907ms
+[2m2023-10-02T18:04:20.627023Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Oknelakskom joined the game
+[2m2023-10-02T18:04:26.408797Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Vintall joined the game
+[2m2023-10-02T18:32:58.935109Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //wand 
+[2m2023-10-02T18:33:10.670160Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //shift 128
+[2m2023-10-02T18:33:13.881252Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //shift 128
+[2m2023-10-02T18:33:23.699980Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //shift 128
+[2m2023-10-02T18:33:35.281629Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //shift 128
+[2m2023-10-02T18:33:38.496091Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //shift 128
+[2m2023-10-02T18:33:57.407070Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //set minecraft:cyan_wool
+[2m2023-10-02T18:34:55.048224Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //set minecraft:cyan_wool
+[2m2023-10-02T18:35:09.621061Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //shift 128
+[2m2023-10-02T18:35:27.168249Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //set minecraft:cyan_wool
+[2m2023-10-02T18:35:36.407895Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //shift 128
+[2m2023-10-02T18:35:44.816201Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-10-02T18:35:59.542446Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //set minecraft:cyan_wool
+[2m2023-10-02T18:36:24.349966Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //stack 80
+[2m2023-10-02T18:36:31.425354Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //stack 80
+[2m2023-10-02T18:36:36.377003Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-10-02T18:36:37.122329Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-10-02T18:37:01.705115Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //stack 8
+[2m2023-10-02T18:37:05.226734Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //stack 32
+[2m2023-10-02T18:37:13.346176Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-10-02T18:37:13.968065Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //undo 
+[2m2023-10-02T18:37:25.941045Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //sel 
+[2m2023-10-02T18:44:23.800324Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /teleport ~ ~ ~
+[2m2023-10-02T18:44:34.349098Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /teleport 128 8 384
+[2m2023-10-02T18:44:35.717120Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /teleport 128 8 384
+[2m2023-10-02T18:44:39.937961Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /teleport 128 8 384
+[2m2023-10-02T18:44:41.857148Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /teleport 128 8 383
+[2m2023-10-02T18:44:44.225177Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /teleport 128 8 384
+[2m2023-10-02T18:51:55.446902Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //up 10
+[2m2023-10-02T18:51:58.158939Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /up 10
+[2m2023-10-02T19:01:17.493650Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Vintall left the game
+[2m2023-10-02T19:01:34.410930Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Oknelakskom issued command: /stop 
+[2m2023-10-02T19:01:34.426306Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Commencing graceful shutdown...

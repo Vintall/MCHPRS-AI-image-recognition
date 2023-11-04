@@ -1,0 +1,46 @@
+[2m2023-10-11T15:40:14.031336Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Starting server...
+[2m2023-10-11T15:40:14.039382Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Done! Start took 6.8919ms
+[2m2023-10-11T15:40:33.948246Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Oknelakskom joined the game
+[2m2023-10-11T15:43:04.184646Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Vintall joined the game
+[2m2023-10-11T15:53:48.322193Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //stack 1
+[2m2023-10-11T15:53:49.561084Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //stack 2
+[2m2023-10-11T15:53:51.039246Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //stack 3
+[2m2023-10-11T15:53:56.777047Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //stack 30
+[2m2023-10-11T15:54:11.986903Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //stack 10
+[2m2023-10-11T15:54:13.348314Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //stack 20
+[2m2023-10-11T15:54:33.008096Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //stack 20
+[2m2023-10-11T15:54:50.432314Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //stack 20
+[2m2023-10-11T16:28:10.610618Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /redpiler 
+[2m2023-10-11T16:28:14.338045Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /redpiler compile
+[2m2023-10-11T16:28:30.263022Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /rtps 100000
+[2m2023-10-11T16:28:32.521503Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /rtps 10
+[2m2023-10-11T16:28:57.454517Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /rtps 100000
+[2m2023-10-11T16:29:40.005064Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /redpiler compile
+[2m2023-10-11T16:30:08.928231Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /redpiler compile
+[2m2023-10-11T16:43:48.042615Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /rtps 
+[2m2023-10-11T16:43:50.898640Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /rtps 100
+[2m2023-10-11T16:43:53.932425Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /rtps 10
+[2m2023-10-11T17:04:25.134287Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /rtps 100
+[2m2023-10-11T17:04:29.011768Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /rtps 50
+[2m2023-10-11T17:04:31.145086Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /rtps 30
+[2m2023-10-11T17:04:33.190629Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /rtps 1
+[2m2023-10-11T17:04:36.092266Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /rtps 5
+[2m2023-10-11T17:04:39.862242Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /rtps 10
+[2m2023-10-11T17:16:04.960085Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //sel 
+[2m2023-10-11T17:16:12.408867Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /select 
+[2m2023-10-11T17:16:15.957150Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //select 
+[2m2023-10-11T17:16:17.510224Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //sel 
+[2m2023-10-11T17:31:00.890364Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //set minecraft:green_wool
+[2m2023-10-11T17:31:07.130966Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //set minecraft:green_wool
+[2m2023-10-11T17:31:10.169415Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //set minecraft:green_wool
+[2m2023-10-11T17:33:56.491209Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //stack 40
+[2m2023-10-11T17:35:46.502992Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //replace minecraft:cyan_wool minecraft:green_wool
+[2m2023-10-11T17:59:51.706071Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /tp Oknelakskom
+[2m2023-10-11T18:02:12.084106Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //replace minecraft:cyan_wool minecraft:light_gray_terracotta
+[2m2023-10-11T18:02:26.748082Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //replace minecraft:cyan_wool minecraft:light_blue_terracotta
+[2m2023-10-11T18:02:40.472692Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //replace minecraft:cyan_wool minecraft:light_blue_concrete
+[2m2023-10-11T18:02:53.288051Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //replace minecraft:light_blue_terracotta minecraft:light_blue_concrete
+[2m2023-10-11T18:03:13.270979Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //replace minecraft:light_gray_terracotta minecraft:light_gray_concrete
+[2m2023-10-11T18:03:16.676430Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: //sel 
+[2m2023-10-11T18:17:57.515355Z[0m [32m INFO[0m [2mmchprs_core::plot::commands[0m[2m:[0m Vintall issued command: /stop 
+[2m2023-10-11T18:17:57.531268Z[0m [32m INFO[0m [2mmchprs_core::server[0m[2m:[0m Commencing graceful shutdown...
